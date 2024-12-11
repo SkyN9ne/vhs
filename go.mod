@@ -32,7 +32,7 @@ require (
 	github.com/ysmood/leakless v0.8.0 // indirect
 	github.com/yuin/goldmark v1.5.2 // indirect
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
-	golang.org/x/crypto v0.0.0-20220826181053-bd7e27e6170d // indirect
+	golang.org/x/crypto v0.31.0 // indirect
 )
 
 require (
@@ -47,6 +47,6 @@ require (
 	github.com/rivo/uniseg v0.4.2 // indirect
 	github.com/spf13/cobra v1.6.1
 	github.com/ysmood/gson v0.7.2 // indirect
-	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b // indirect
-	golang.org/x/sys v0.0.0-20221013171732-95e765b1cc43 // indirect
+	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/sys v0.28.0
 )
